@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+	padding: 20px;
+}
+
+.container {
+	background-color: gainsboro;
+	width: 50%;
+	margin: 0 auto;
+	height: 400px;
+}
+
+.container p {
+	padding: 20px;
+	text-align: center;
+}
+
+.container form {
+	margin: 0 auto;
+	position: relative;
+	left: 200px;
+	top: 50px;
+}
+
+.container button {
+	padding: 5px;
+	margin: 0 10px;
+	display: inline;
+	position: relative;
+	top: 50px;
+	right: 130px;
+}
+
+.container input {
+	padding: 5px;
+	position: relative;
+	top: 10px;
+	left: 30px;
+}
+
+#display {
+	position: relative;
+	width: 500px;
+	padding: 10px;
+	left: 60px;
+	top: 100px;
+}
